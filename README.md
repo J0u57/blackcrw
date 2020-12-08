@@ -10,8 +10,8 @@
 
 • :shipit: My projects is avaliable [here](https://github.com/blackcrw)
 
-• :heart:  Hacking, Back-End Developer, Python and Golang
+• :heart: Hacking, Back-End Developer, Python and Golang
 
-• :computer: 144.217.235.106 6667
+• :computer: 144.217.235.106:6667
 
 # :brazil: :black_flag:
