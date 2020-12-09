@@ -6,7 +6,7 @@
 ### About me:
 • :game_die: Student of information security, pentester and development.
 
-• :electric_plug: Join my [discord server](https://discord.gg/qp8m8vvT3d) to talk about anything!
+• :electric_plug: Join my [discord server](https://discord.gg/B9ZtVSZVgp) to talk about anything!
 
 • :shipit: My projects is avaliable [here](https://github.com/blackcrw)
 
