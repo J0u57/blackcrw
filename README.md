@@ -6,12 +6,8 @@
 ### About me:
 • :game_die: Student of information security, pentester and development.
 
-• :electric_plug: Join my [discord server](https://discord.gg/B9ZtVSZVgp) to talk about anything!
+• :heart: Hacking
 
-• :shipit: My projects is avaliable [here](https://github.com/blackcrw)
-
-• :heart: Hacking, Back-End Developer, Python and Golang
-
-• :computer: 144.217.235.106:6667
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blackcrw&hide=html&layout=compact&show_icons=true&theme=radical)
 
 # :brazil: :black_flag:
