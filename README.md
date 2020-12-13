@@ -6,8 +6,6 @@
 ### About me:
 • :game_die: Student of information security, pentester and development.
 
-• :heart: Hacking
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blackcrw&hide=html&layout=compact&show_icons=true&theme=radical)
 
 # :brazil: :black_flag:
