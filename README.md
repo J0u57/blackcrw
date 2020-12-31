@@ -1,11 +1,14 @@
-### :man_technologist: Hi! Pleasure i am blackcrw 👋 
+<h2 align="center">
+  <em>blk#9227</em>
+</h2>
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white&link=https://github.com/blackcrw)](https://github.com/blackcrw)
-![Discord](https://img.shields.io/discord/765050052997021707?color=%23000&label=%20&logo=discord&logoColor=%23fff)
+<p align="center">
+  <img align="center" src="https://img.shields.io/badge/Offensive%20Security-141321?style=flat-square&logo=Red-Hat"/>
+  <img align="center" src="https://img.shields.io/badge/Developer-141321?style=flat-square&logo=homebrew"/>
+</p>
 
-### About me:
-• :game_die: Student of information security, pentester and development.
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackcrw&hide=html&layout=compact&show_icons=true&theme=radical" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blackcrw&hide=html&layout=compact&show_icons=true&theme=radical)
-
-# :brazil: :black_flag:
+<h3 align="center">:brazil: :black_flag:<h3>
